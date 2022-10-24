@@ -50,7 +50,7 @@ const Section5 = () => {
               <div style={left}>
                 <img
                   style={img}
-                  src="/images/Section5ImageGroup.png"
+                  src={process.env.PUBLIC_URL+"/images/Section5ImageGroup.png"}
                   alt="Section5"
                 ></img>
               </div>
@@ -62,7 +62,7 @@ const Section5 = () => {
               <div style={left}>
                 <img
                   style={img}
-                  src="/images/Section5ImageGroup.png"
+                  src={process.env.PUBLIC_URL+"/images/Section5ImageGroup.png"}
                   alt="Section5"
                 ></img>
               </div>
