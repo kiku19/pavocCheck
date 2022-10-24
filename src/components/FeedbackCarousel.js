@@ -84,31 +84,31 @@ const FeedbackCarousel = ({forwardRef}) => {
 const feedbacks = [
   {
     para: " Lörem ipsum reras kvasir. Georade derade bokstavsdrog. Dafir geoheten och pydat fapåssade. Du kan vara drabbad. Speråren katuråskapet samt koldioxidsänka. ",
-    icon: <img src="/images/feedbackProfilePic/1.png" alt="profilePicture"></img>,
+    icon: <img src={process.env.PUBLIC_URL+"/images/feedbackProfilePic/1.png"} alt="profilePicture"></img>,
     name: "Franseco",
     university: "Berkley University",
   },
   {
     para: " Lörem ipsum reras kvasir. Georade derade bokstavsdrog. Dafir geoheten och pydat fapåssade. Du kan vara drabbad. Speråren katuråskapet samt koldioxidsänka. ",
-    icon: <img src="/images/feedbackProfilePic/1.png" alt="profilePicture"></img>,
+    icon: <img src={process.env.PUBLIC_URL+"/images/feedbackProfilePic/1.png"} alt="profilePicture"></img>,
     name: "Franseco",
     university: "Berkley University",
   },
   {
     para: " Lörem ipsum reras kvasir. Georade derade bokstavsdrog. Dafir geoheten och pydat fapåssade. Du kan vara drabbad. Speråren katuråskapet samt koldioxidsänka. ",
-    icon: <img src="/images/feedbackProfilePic/1.png" alt="profilePicture"></img>,
+    icon: <img src={process.env.PUBLIC_URL+"/images/feedbackProfilePic/1.png"} alt="profilePicture"></img>,
     name: "Franseco",
     university: "Berkley University",
   },
   {
     para: " Lörem ipsum reras kvasir. Georade derade bokstavsdrog. Dafir geoheten och pydat fapåssade. Du kan vara drabbad. Speråren katuråskapet samt koldioxidsänka. ",
-    icon: <img src="/images/feedbackProfilePic/1.png" alt="profilePicture"></img>,
+    icon: <img src={process.env.PUBLIC_URL+"/images/feedbackProfilePic/1.png"} alt="profilePicture"></img>,
     name: "Franseco",
     university: "Berkley University",
   },
   {
     para: " Lörem ipsum reras kvasir. Georade derade bokstavsdrog. Dafir geoheten och pydat fapåssade. Du kan vara drabbad. Speråren katuråskapet samt koldioxidsänka. ",
-    icon: <img src="/images/feedbackProfilePic/1.png" alt="profilePicture"></img>,
+    icon: <img src={process.env.PUBLIC_URL+"/images/feedbackProfilePic/1.png"} alt="profilePicture"></img>,
     name: "Franseco",
     university: "Berkley University",
   },
